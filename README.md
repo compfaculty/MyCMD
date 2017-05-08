@@ -1,0 +1,2 @@
+# MyCMD
+misc batch scripts
